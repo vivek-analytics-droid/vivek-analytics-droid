@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" />
+</p>
 # Hi 👋 I'm Vivek
 
 🎓 B.Tech in Information Technology  
